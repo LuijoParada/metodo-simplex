@@ -1,1 +1,3 @@
-## Metodo simplex 
+## Metodo simplex
+
+ Algo interesante que? 
